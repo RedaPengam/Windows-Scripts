@@ -1,5 +1,5 @@
 In order to rename several files at a time :
-1) Copy your files in both folder "files safe" and "files to rename"
+1) Copy your files in both folder "files safe" and "files to rename" (empty folder created to prevent from errors)
 2) In the folder "files to rename" use either one of these scripts "RemovePrefix.bat" or "AddPrefix.bat" by following their instructions : 
 
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
