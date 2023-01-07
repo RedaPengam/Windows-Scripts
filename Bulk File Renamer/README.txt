@@ -5,11 +5,11 @@ In order to rename several files at a time (ex: pictures with an unwanted prefix
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 :: Batch script to rename files to REMOVE prefix					 ::
 :: Usage: RemovePrefix.bat <file-extension> <prefix Length>				 ::
-:: example: RenZeroPad.bat ext 4 >> "0001file.ext" renamed to "file.ext"		 ::
+:: example: RemovePrefix.bat ext 4 >> "0001file.ext" renamed to "file.ext"		 ::
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 :: Batch script to rename files to ADD prefix					         ::
 :: Usage: AddPrefix.bat <file-extension> <prefix>				         ::
-:: example: RenZeroPad.bat ext IMG >> "file.ext" renamed to "IMGfile.ext"		 ::
+:: example: AddPrefix.bat ext IMG >> "file.ext" renamed to "IMGfile.ext"		 ::
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
