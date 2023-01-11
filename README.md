@@ -1,5 +1,5 @@
 ## Windows-Scripts
-Ease your Windows life with some usefull batch scripts such as a bulk file renamer.
+Ease your Windows life with some usefull batch scripts.
 
 ### General information
 - Scripts tested and working on Windows 10
@@ -7,4 +7,4 @@ Ease your Windows life with some usefull batch scripts such as a bulk file renam
 - Scripts' instructions detailed in folders
 
 ### Currently available scripts
-- Rename multiple files: 2 scripts
+- Folder **rename multiple files** > 2 scripts
