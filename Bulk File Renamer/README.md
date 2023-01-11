@@ -1,20 +1,10 @@
 ## Instructions
 
-- Use case: rename multiple pictures with an unwanted prefix in the filename.
-- In order to rename several files at a time:
-1. Copy your files in both folder: "files safe" (empty folder to prevent from errors) and "files to rename" 
-2. Run cmd in "files to rename" (Type cmd in explorer adress bar and press enter)
-3. Type this command in cmd: `start desiredScript.bat extraScriptParameters`
-4. extraScriptParameters detailed in the following instructions : 
-
-:: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
-:: Batch script to rename files to REMOVE prefix					 ::
-:: Usage: RemovePrefix.bat <file-extension> <prefix Length>				 ::
-:: example: RemovePrefix.bat ext 4 >> "0001file.ext" renamed to "file.ext"		 ::
-:: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
-
-:: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
-:: Batch script to rename files to ADD prefix					         ::
-:: Usage: AddPrefix.bat <file-extension> <prefix>				         ::
-:: example: AddPrefix.bat ext IMG >> "file.ext" renamed to "IMGfile.ext"		 ::
-:: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
+- Copy your files in both folder: "files to rename" & "files safe" (an empty folder to prevent from errors)
+- Enter `cmd` in the explorer adress bar and press `enter`
+- Choose the action to perform: **RemovePrefix.bat** to remove a prefix from filenames (1) or **AddPrefix.bat** to add a prefix to filenames (2)
+- Execute your action in cmd by running one of the following commands: 
+  - Action 1: `start RemovePrefix.bat <file-extension> <prefix Length>`
+  - Example: `start RemovePrefix.bat ext 4` will rename all "0001file.ext" to "file.ext"
+  - Action 2: `start AddPrefix.bat <file-extension> <prefix>`
+  - Example: `start AddPrefix.bat ext IMG` willrename all "file.ext" to "IMGfile.ext"
