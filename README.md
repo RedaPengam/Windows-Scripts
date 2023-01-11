@@ -7,4 +7,4 @@ Ease your Windows life with some usefull batch scripts.
 - Scripts' instructions detailed in folders
 
 ## Currently available scripts
-- Folder **Rename Multiple Files** > 2 scripts
+- **Rename Multiple Files** > 2 scripts
