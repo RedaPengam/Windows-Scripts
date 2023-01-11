@@ -8,3 +8,4 @@ Ease your Windows life with some usefull batch scripts.
 
 ## Currently available scripts
 - **Rename Multiple Files** > 2 scripts
+- Maybe more to come...
