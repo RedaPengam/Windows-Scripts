@@ -1,8 +1,8 @@
 ## Instructions
 
 - Create a **backup** folder for your files to prevent from errors
-- Copy your files in both folder: **run** & **backup**
-- Enter `cmd` in the explorer adress bar and press `enter`
+- Copy your files in both folders **run** & **backup**
+- Go to the **run** folder, enter `cmd` in the explorer address bar and press `enter`
 - Choose the action to perform: <br />
 (1) **RemovePrefix.bat** to remove a prefix from filenames or <br />
 (2) **AddPrefix.bat** to add a prefix to filenames
