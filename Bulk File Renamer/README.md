@@ -7,4 +7,4 @@
   - Action 1: `start RemovePrefix.bat <file-extension> <prefix Length>`
   - Example: `start RemovePrefix.bat ext 4` will rename all "0001file.ext" to "file.ext"
   - Action 2: `start AddPrefix.bat <file-extension> <prefix>`
-  - Example: `start AddPrefix.bat ext IMG` willrename all "file.ext" to "IMGfile.ext"
+  - Example: `start AddPrefix.bat ext IMG` will rename all "file.ext" to "IMGfile.ext"
