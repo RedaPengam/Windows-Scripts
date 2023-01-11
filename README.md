@@ -2,9 +2,8 @@
 Ease your Windows life with some usefull batch scripts such as a bulk file renamer.
 
 ### General information
-- Working on Windows 10 (probably 11 too)
-- Open README files for each script use instructions
+- Tested and working on Windows 10
+- Use instructions for each script detailed in README files
 
-### Available scripts
-- AddPrefix.bat
-- RemovePrefix.bat
+### Currently available scripts
+- Bulk file renamer (2 scripts)
