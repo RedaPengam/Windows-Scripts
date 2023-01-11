@@ -1,6 +1,7 @@
 ## Instructions
 
-- Copy your files in both folder: **files to rename** & **files safe** (an empty folder to prevent from errors)
+- Create a **backup** folder for your files to prevent from errors
+- Copy your files in both folder: **run** & **backup**
 - Enter `cmd` in the explorer adress bar and press `enter`
 - Choose the action to perform: <br />
 (1) **RemovePrefix.bat** to remove a prefix from filenames or <br />
