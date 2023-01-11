@@ -1,6 +1,9 @@
-In order to rename several files at a time (ex: pictures with an unwanted prefix in the filename) :
-1) Copy your files in both folder "files safe" (empty folder created to prevent from errors) and "files to rename" 
-2) In the folder "files to rename" use either one of these scripts "RemovePrefix.bat" or "AddPrefix.bat" by following their instructions : 
+- Use case: rename multiple pictures with an unwanted prefix in the filename.
+- In order to rename several files at a time:
+1. Copy your files in both folder: "files safe" (empty folder to prevent from errors) and "files to rename" 
+2. Run cmd in "files to rename" (Type cmd in explorer adress bar and press enter)
+3. Type this command in cmd: `start desiredScript.bat extraScriptParameters`
+4. extraScriptParameters detailed in the following instructions : 
 
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 :: Batch script to rename files to REMOVE prefix					 ::
