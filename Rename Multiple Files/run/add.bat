@@ -1,7 +1,7 @@
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 :: Batch script to rename files to ADD prefix					 ::
-:: Usage: AddPrefix.bat <file-extension> <prefix>				 ::
-:: example: AddPrefix.bat ext IMG >> "file.ext" renamed to "IMGfile.ext"		 ::
+:: Usage: add.bat <file-extension> <prefix>				 ::
+:: example: add.bat ext IMG >> "file.ext" renamed to "IMGfile.ext"		 ::
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 
 @echo off
