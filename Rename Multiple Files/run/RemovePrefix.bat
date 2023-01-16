@@ -1,7 +1,7 @@
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 :: Batch script to rename files to REMOVE prefix					 ::
-:: Usage: RemovePrefix.bat <file-extension> <prefix Length>				 ::
-:: example: RemovePrefix.bat ext 4 >> "0001file.ext" renamed to "file.ext"		 ::
+:: Usage: del.bat <file-extension> <prefix Length>				 ::
+:: example: del.bat ext 4 >> "0001file.ext" renamed to "file.ext"		 ::
 :: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ::
 
 @echo off
