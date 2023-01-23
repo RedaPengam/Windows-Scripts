@@ -1,11 +1,7 @@
 # Windows-Scripts
-Ease your Windows life with some usefull batch scripts.
+Ease your Windows life with some cool batch scripts. The different scripts are ordered by actions in separate folders.
 
-## General information
-- Scripts tested and working on Windows 10.
-- Scripts ordered by actions in separate folders.
-- Scripts guide in folders.
-
-## Currently available scripts
-- **Rename Multiple Files** > 2 scripts
-- Maybe more to come...
+## Scripts
+- [working on win 10 & 11] `./Rename Multiple Files/del.bat`
+- [working on win 10 & 11] `./Rename Multiple Files/add.bat`
+- [working on win 11] `./Change Windows Theme/theme.bat`
