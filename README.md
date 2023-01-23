@@ -4,5 +4,5 @@ Ease your Windows life with some cool batch scripts. The different scripts are o
 ## Scripts
 - `./Rename Multiple Files/del.bat` [working on win 10 & 11]
 - `./Rename Multiple Files/add.bat` [working on win 10 & 11]
-- `./Change Windows Theme/day.bat` [working on win 11]
-- `./Change Windows Theme/night.bat` [working on win 11]
+- `./Switch Windows Theme/day.bat` [working on win 11]
+- `./Switch Windows Theme/night.bat` [working on win 11]
